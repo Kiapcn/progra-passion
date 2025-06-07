@@ -1,0 +1,32 @@
+{
+  "selections": [
+    {
+      "id": "selection-1",
+      "title": "Parcours Débutant Web",
+      "description": "Une sélection de formations pour débuter dans le développement web.",
+      "type": "formation",
+      "items": [
+        {
+          "id": "formation-1",
+          "title": "Introduction à JavaScript",
+          "description": "Apprenez les bases de JavaScript et commencez à créer des applications web interactives.",
+          "level": "débutant",
+          "duration": "6 semaines",
+          "price": 49.99,
+          "imageUrl": "/images/formations/javascript-intro.jpg",
+          "url": "https://example.com/formation-javascript",
+          "tags": ["javascript", "web", "débutant"]
+        }
+      ],
+      "imageUrl": "/images/selections/web-debutant.jpg"
+    },
+    {
+      "id": "selection-2",
+      "title": "Outils Essentiels",
+      "description": "Les outils indispensables pour tout développeur web.",
+      "type": "outil",
+      "items": [],
+      "imageUrl": "/images/selections/outils-dev.jpg"
+    }
+  ]
+} 

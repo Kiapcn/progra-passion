@@ -1,0 +1,26 @@
+{
+  "formations": [
+    {
+      "id": "formation-1",
+      "title": "Introduction à JavaScript",
+      "description": "Apprenez les bases de JavaScript et commencez à créer des applications web interactives.",
+      "level": "débutant",
+      "duration": "6 semaines",
+      "price": 49.99,
+      "imageUrl": "/images/formations/javascript-intro.jpg",
+      "url": "https://example.com/formation-javascript",
+      "tags": ["javascript", "web", "débutant"]
+    },
+    {
+      "id": "formation-2",
+      "title": "React Avancé",
+      "description": "Maîtrisez React avec des concepts avancés et des bonnes pratiques de développement.",
+      "level": "avancé",
+      "duration": "8 semaines",
+      "price": 79.99,
+      "imageUrl": "/images/formations/react-advanced.jpg",
+      "url": "https://example.com/formation-react",
+      "tags": ["react", "javascript", "avancé"]
+    }
+  ]
+} 
